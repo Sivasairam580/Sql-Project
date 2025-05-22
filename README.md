@@ -10,7 +10,8 @@ Simplify administrative tasks like appointment booking and prescription handling
 
 Provide actionable insights through views, queries, and stored procedures.
 
-echnologies Used
+Technologies Used
+
 SQL (Structured Query Language),
  MySQL Workbench 
 
@@ -18,15 +19,10 @@ Database Schema
 The project includes the following key tables:
 
 patients,
-
  doctors,
-
  appointments,
-
  prescriptions,
-
  departments,
-
  medications
 
 Conclusion
